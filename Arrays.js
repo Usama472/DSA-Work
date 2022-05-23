@@ -31,16 +31,16 @@ class MyArray{
   }
   
 }
-const arr = new MyArray();
-arr.push('hello');
-arr.push('kkk');
-arr.push('mmm')
-arr.push(12);
-// console.log("before pop");
+// const arr = new MyArray();
+// arr.push('hello');
+// arr.push('kkk');
+// arr.push('mmm')
+// arr.push(12);
+// // console.log("before pop");
+// // console.log(arr);
+// // arr.pop();
+// // console.log("after pop");
+// arr.delete(1);
+// arr.delete(0);
+// arr.delete(3);
 // console.log(arr);
-// arr.pop();
-// console.log("after pop");
-arr.delete(1);
-arr.delete(0);
-arr.delete(3);
-console.log(arr);
